@@ -15,6 +15,7 @@ práctica para construir una base sólida de lógica y programación.
 | `guia06_c_pascal_basic` | Comparativa de lenguajes (Hola Mundo y suma) | Pascal, BASIC |
 | `guia07_poo_intro` | Clases, objetos, constructor, `this`, encapsulamiento | C, C++, Java |
 | `guia08_herencia_polimorfismo` | Herencia, polimorfismo (`virtual`), arreglos de punteros al padre y diagramas UML | C++, UML |
+| `guia09_poo_avanzado` | Herencia, polimorfismo (`virtual`), arreglos de punteros al padre y diagramas UML | C++, JAVA, UML |
 
 ## Cómo compilar
 
